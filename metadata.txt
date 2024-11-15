@@ -14,8 +14,8 @@ email=giulio.fattori@tin.it
 about=Breaks a line on points lying on or off it, optional buffer from the line or distance between points
 about[it]=Spezza una linea in base a dei punti giacenti su di essa o a distanza prefissata, e' possibile impostare una distanza tra i punti
 
-tracker=http://bugs
-repository=http://repo
+tracker=http://github.com/Korto19/Split-Lines-By-Points/issues
+repository=http://github.com/Korto19/Split-Lines-By-Points
 # End of mandatory metadata
 
 # Recommended items:
@@ -27,7 +27,7 @@ hasProcessingProvider=yes
 # Tags are comma separated with spaces allowed
 tags=python
 
-homepage=http://github.com/Korto19/
+homepage=http://github.com/Korto19/Split-Lines-By-Points
 category=Analysis
 icon=icon.png
 # experimental flag
