@@ -4,7 +4,7 @@
 
 [general]
 name=Split Lines By Points
-qgisMinimumVersion=3.4
+qgisMinimumVersion=3.40
 description=Split Lines By Points
 description[it]=Divide una linea in base a dei punti
 version=1.0
